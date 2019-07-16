@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Nolshine/react-gol/static/css/main.17f1dba1.chunk.css",
-    "main.js": "/Nolshine/react-gol/static/js/main.c708eb87.chunk.js",
-    "main.js.map": "/Nolshine/react-gol/static/js/main.c708eb87.chunk.js.map",
-    "runtime~main.js": "/Nolshine/react-gol/static/js/runtime~main.1149c9cb.js",
-    "runtime~main.js.map": "/Nolshine/react-gol/static/js/runtime~main.1149c9cb.js.map",
-    "static/js/2.65aa1cca.chunk.js": "/Nolshine/react-gol/static/js/2.65aa1cca.chunk.js",
-    "static/js/2.65aa1cca.chunk.js.map": "/Nolshine/react-gol/static/js/2.65aa1cca.chunk.js.map",
-    "index.html": "/Nolshine/react-gol/index.html",
-    "precache-manifest.3ebb039dcb4f2f8cf4fe62bf8729c880.js": "/Nolshine/react-gol/precache-manifest.3ebb039dcb4f2f8cf4fe62bf8729c880.js",
-    "service-worker.js": "/Nolshine/react-gol/service-worker.js",
-    "static/css/main.17f1dba1.chunk.css.map": "/Nolshine/react-gol/static/css/main.17f1dba1.chunk.css.map"
+    "main.css": "/react-gol/static/css/main.17f1dba1.chunk.css",
+    "main.js": "/react-gol/static/js/main.c708eb87.chunk.js",
+    "main.js.map": "/react-gol/static/js/main.c708eb87.chunk.js.map",
+    "runtime~main.js": "/react-gol/static/js/runtime~main.1149c9cb.js",
+    "runtime~main.js.map": "/react-gol/static/js/runtime~main.1149c9cb.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/react-gol/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/react-gol/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/react-gol/index.html",
+    "precache-manifest.3ebb039dcb4f2f8cf4fe62bf8729c880.js": "/react-gol/precache-manifest.3ebb039dcb4f2f8cf4fe62bf8729c880.js",
+    "service-worker.js": "/react-gol/service-worker.js",
+    "static/css/main.17f1dba1.chunk.css.map": "/react-gol/static/css/main.17f1dba1.chunk.css.map"
   }
 }
